@@ -1,24 +1,39 @@
-# README
+# HelloRails
+A simple web application to test the `rails new Project --database=postgresql command`.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
 
-Things you may want to cover:
+- Ruby version 3.0.3p157
+- Rails version 7.0.1
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+**The project comes shipped with linters config for ruby, so ensure you have Rubocop**
+**installed on your local environment**
 
-* Configuration
+- **Ensure you have postgresql, nodejs, ruby and rails set up on your machine**
+- **To get a local copy of the repository please run the following commands on your terminal:**
+- **$ git clone https://github.com/see-why/hellorails.git**
+- **$ cd hellorails.**
+- **$ run `bundle install` to couple all dependacies**
+- **$ run `rails s`**
 
-* Database creation
+👤 **Cyril Iyadi**
 
-* Database initialization
+- GitHub: [@see-why](https://github.com/see-why)
+- LinkedIn: [C.Iyadi](https://www.linkedin.com/in/cyril-iyadi-83517270/)
 
-* How to run the test suite
+## 🤝 Contributing
 
-* Services (job queues, cache servers, search engines, etc.)
+Contributions, issues, and feature requests are welcome!
 
-* Deployment instructions
+Feel free to check the [issues page](../../issues/).
 
-* ...
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+- my dog Perry for the comforting lick here and there
+## 📝 License
+- This project is [MIT](./LICENSE) licensed.
